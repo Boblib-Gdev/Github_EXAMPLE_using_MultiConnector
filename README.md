@@ -3,5 +3,5 @@
 This example and extension are still with many bugs, and comments are welcome.
 
 This Gdevelop game is an Example using the extension MultiConnector, which is a Multiplayer easy acces with THNK protocols.
-(extension code can be found here : https://github.com/Boblib-Gdev/github_MultiConnector_extension/tree/release_v1.1.6
+(extension code can be found here : https://github.com/Boblib-Gdev/github_MultiConnector_extension/
 
