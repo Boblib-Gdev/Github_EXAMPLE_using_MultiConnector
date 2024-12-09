@@ -20,7 +20,7 @@
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "multiconnector-TESTING_game  v3",
+    "name": "GITHUB_EXAMPLE_with_MulticCnnector_ v3",
     "description": "Demo example using extension MultiConnector, which simplify utilisation of THNK protocols.\n\nNote : this is not an official THNK project,\nand it is still with many buggs...   looking for help  :)",
     "author": "",
     "windowWidth": 1280,
@@ -141,69 +141,13 @@
         "name": "NewSprite4",
         "smoothed": true,
         "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite5",
-        "smoothed": true,
-        "userAdded": false
       }
     ],
     "resourceFolders": []
   },
-  "objects": [
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "Back",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "Back",
-      "font": "",
-      "textAlignment": "center",
-      "characterSize": 40,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": true,
-        "isShadowEnabled": true,
-        "italic": false,
-        "outlineColor": "155;155;155",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "155;155;155",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "Back",
-        "font": "",
-        "textAlignment": "center",
-        "verticalTextAlignment": "center",
-        "characterSize": 40,
-        "color": "0;0;0"
-      }
-    }
-  ],
+  "objects": [],
   "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "Back"
-      }
-    ]
+    "folderName": "__ROOT"
   },
   "objectsGroups": [],
   "variables": [],
